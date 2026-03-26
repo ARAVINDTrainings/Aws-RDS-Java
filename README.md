@@ -1,4 +1,4 @@
-## Java project with integration of Database
+# Java project with integration of Database
 
 Goal: The purpose of this project is to test java application connectivity with AWS RDS(MySQL)
 
